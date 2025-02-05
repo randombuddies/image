@@ -50,7 +50,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": True, # Redirect to a webpage?
+        "redirect": False, # Redirect to a webpage?
         "page": "https://media1.tenor.com/m/m3jc1JxL1ssAAAAC/hahahahah-gahahahaha.gif" # Link to the webpage to redirect to 
     },
 
